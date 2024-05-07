@@ -18,5 +18,11 @@
   "homepage": "https://github.com/manhnguyen652/git-test-01#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
   }
 }
